@@ -1,3 +1,4 @@
 homeassistant/amd64-addon-ssh:9.14.0
 homeassistant/amd64-addon-ssh:9.15.0
 6053537/portainer-ce
+docker_practice:vuepress
