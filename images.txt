@@ -2,4 +2,5 @@
 # homeassistant/amd64-addon-ssh:9.15.0
 # 6053537/portainer-ce
 # dockerpracticesig/docker_practice:vuepress
-ubuntu:22.04
+# ubuntu:22.04
+dreamacro/clash:v1.18.0
