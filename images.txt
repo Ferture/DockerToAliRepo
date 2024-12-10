@@ -2,4 +2,4 @@
 # homeassistant/amd64-addon-ssh:9.15.0
 # 6053537/portainer-ce
 # dockerpracticesig/docker_practice:vuepress
-ububtu:22.04
+ubuntu:22.04
