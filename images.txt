@@ -5,4 +5,14 @@
 # ubuntu:22.04
 # dreamacro/clash:v1.18.0
 # haishanh/yacd
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
+linuxserver/heimdall:2.5.6
+flaresolverr/flaresolverr:latest
+linuxserver/prowlarr:develop
+luckypuppy514/jproxy:latest
+fallenbagel/jellyseerr:latest
+linuxserver/radarr:5.2.6
+linuxserver/sonarr:4.0.0
+linuxserver/qbittorrent:latest
+allanpk716/chinesesubfinder:latest-lite
+emby/embyserver:4.8.0.69
