@@ -5,7 +5,7 @@
 # ubuntu:22.04
 # dreamacro/clash:v1.18.0
 # haishanh/yacd
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
 # linuxserver/heimdall:2.5.6
 # flaresolverr/flaresolverr:latest
 # linuxserver/prowlarr:develop
@@ -16,3 +16,4 @@ homeassistant/home-assistant:latest
 # linuxserver/qbittorrent:latest
 # allanpk716/chinesesubfinder:latest-lite
 # emby/embyserver:4.8.0.69
+mzz2017/v2raya
