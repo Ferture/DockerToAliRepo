@@ -18,4 +18,5 @@
 # emby/embyserver:4.8.0.69
 # mzz2017/v2raya
 # louislam/dockge
-dockurr/macos
+# dockurr/macos
+ubuntu:18.04
